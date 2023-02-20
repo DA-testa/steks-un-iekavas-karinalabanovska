@@ -1,3 +1,4 @@
+# Karīna Labanovska-Sekača 221RDB206 6.grupa
 # python3
 
 from collections import namedtuple
